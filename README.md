@@ -23,7 +23,7 @@ A **Power BI** dashboard that provides deep insights into sales trends, regional
 ### 🔹 **SQL Database Optimization**
 Optimized SQL queries and structured databases for improved data management and enhanced reporting.
 
-### 🔹 **Excel Financial Model** https://github.com/qasim0khan/Financial_Model/blob/main/Financial_Model.xlsx
+### 🔹 **Excel Financial Model**
 Developed an advanced **financial model** in Excel for forecasting and budgeting, incorporating charts and scenario analysis.
 
 ### 🔹 **Python Data Processing**
@@ -118,5 +118,3 @@ Feel free to reach out for collaboration or job opportunities. I'm open to **fre
 💻 **GitHub:** [github.com/qasim0han](https://github.com/qasim0han)
 
 ---
-
-## 📜 **License**
