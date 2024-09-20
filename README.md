@@ -75,7 +75,7 @@ A comprehensive project focusing on **optimizing SQL queries** and structuring d
 - **Tools:** SQL  
 - **Highlights:** Query optimization, database normalization, and performance tuning.
 
-### 3. [Excel Financial Model](#) https://github.com/qasim0khan?tab=repositories
+### 3. [Excel Financial Model](#)
 Created a financial forecasting model in **MS Excel** that helped a client predict revenue and manage expenses. The model includes **dynamic charts**, scenario analysis, and cash flow predictions.
 
 - **Tools:** MS Excel  
@@ -114,6 +114,5 @@ Worked on various freelance projects, delivering **data insights**, and **busine
 Feel free to reach out for collaboration or job opportunities. I'm open to **freelance**, **contract**, and **full-time** roles in the data analytics field.
 
 📧 **Email:** kasimaimankhan@gmail.com  
-🔗 **LinkedIn:** [www.linkedin.com/in/qasim0khan](https://www.linkedin.com/in/qasim0khan) [![GitHub Repository](https://img.shields.io/badge/GitHub-SQL_Project-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/qasim0han/SQL_Project)
- 
-💻 **GitHub:** [![GitHub Repository](https://img.shields.io/badge/GitHub-Repository-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/qasim0han)
+🔗 **LinkedIn:** [www.linkedin.com/in/qasim0khan](https://www.linkedin.com/in/qasim0khan)  
+💻 **GitHub:** [![GitHub Repository](https://img.shields.io/badge/GitHub-Repository-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/qasim0khan?tab=repositories)
