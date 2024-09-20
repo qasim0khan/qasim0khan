@@ -115,6 +115,4 @@ Feel free to reach out for collaboration or job opportunities. I'm open to **fre
 
 📧 **Email:** kasimaimankhan@gmail.com  
 🔗 **LinkedIn:** [www.linkedin.com/in/qasim0khan](https://www.linkedin.com/in/qasim0khan)  
-💻 **GitHub:** [github.com/qasim0han](https://github.com/qasim0han)
-
----
+💻 **GitHub:** [![GitHub Repository](https://img.shields.io/badge/GitHub-Repository-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/qasim0han)
