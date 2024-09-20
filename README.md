@@ -114,6 +114,5 @@ Worked on various freelance projects, delivering **data insights**, and **busine
 Feel free to reach out for collaboration or job opportunities. I'm open to **freelance**, **contract**, and **full-time** roles in the data analytics field.
 
 📧 **Email:** kasimaimankhan@gmail.com  
-🔗 **LinkedIn:**[![GitHub Repository](https://img.shields.io/badge/LinkedIN-181717?style=for-the-badge&logo=github&logoColor=white)](https://www.linkedin.com/in/qasim0khan)
-
+🔗 **LinkedIn:**  [![LinkedIn Profile](https://img.shields.io/badge/LinkedIn-Profile-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/qasim0khan)
 💻 **GitHub:** [![GitHub Repository](https://img.shields.io/badge/GitHub-Repository-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/qasim0khan?tab=repositories)
